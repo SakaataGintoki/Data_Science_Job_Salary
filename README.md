@@ -12,6 +12,10 @@ Power BI Desktop (for visualization purpose)
 # Dataset
 The Data Science Job Salary dataset used in this project is used from Kaggle and can be found here. The dataset includes details on  Highest Salary,Average Salary,Year to year Comparision and many more ; you can download it directly from the Kaggle platform.
 
+# Power Bi Desktop
+[Data Science Job Salary.pdf](https://github.com/SakaataGintoki/Data_Science_Salaries_Dashboard/files/14060430/Data.Science.Job.Salary.pdf)
+
+
 # Insights
 ![Highest paying job](https://github.com/SakaataGintoki/Data_Science_Salaries_Dashboard/assets/107795560/a909e26f-eaac-4590-a097-c59390e712dc)
 ![Average Salary by Job Type](https://github.com/SakaataGintoki/Data_Science_Salaries_Dashboard/assets/107795560/61662f8e-e583-4519-8946-5891ef08c389)
